@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: aqua;
+    width: 250px;
+margin-bottom: 5px; 
+}
